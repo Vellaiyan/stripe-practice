@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1>This what is waht</h1>
+        <h1>Successfully deployed the First Project</h1>
         <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
